@@ -1,2 +1,2 @@
 # Bitlock-bruteforce
-This is a little cmd file that brute forcesd bitlock encryption passwords
+This is a little shell file that brute forces bitlock encryption passwords
